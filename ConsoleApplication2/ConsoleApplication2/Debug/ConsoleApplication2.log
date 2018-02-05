@@ -1,0 +1,6 @@
+﻿  Timer.cpp
+  ma.cpp
+c1xx : fatal error C1083: 소스 파일을 열 수 없습니다. '..\..\..\..\Documents\Visual Studio 2015\Projects\TetrisCore\TetrisCore\ma.cpp': No such file or directory
+  Element.cpp
+  block.cpp
+  코드를 생성하고 있습니다...
